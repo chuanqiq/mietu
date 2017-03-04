@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Feb/2017:22:55:59 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [19/Feb/2017:22:55:59 +0100] "GET /mietu.de/index.html HTTP/1.1" 200 13117
+0:0:0:0:0:0:0:1 - - [19/Feb/2017:22:55:59 +0100] "GET /mietu.de/css/bootstrap.min.css HTTP/1.1" 200 121200
+0:0:0:0:0:0:0:1 - - [19/Feb/2017:22:55:59 +0100] "GET /mietu.de/css/modern-business.css HTTP/1.1" 200 1413
+0:0:0:0:0:0:0:1 - - [19/Feb/2017:22:55:59 +0100] "GET /mietu.de/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 21984

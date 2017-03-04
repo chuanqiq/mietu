@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:37:51 +0100] "GET /mietu.de/ HTTP/1.1" 200 13117
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:37:51 +0100] "GET /mietu.de/css/bootstrap.min.css HTTP/1.1" 200 121200
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:37:51 +0100] "GET /mietu.de/css/modern-business.css HTTP/1.1" 200 1413
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:37:51 +0100] "GET /mietu.de/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 21984
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:45:36 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:46:58 +0100] "GET /mietu.de HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:00:46:59 +0100] "GET /mietu.de/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:01:37:24 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [01/Mar/2017:01:37:38 +0100] "GET /mietu.de/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
